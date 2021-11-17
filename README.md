@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Simplefarmer77
 - 👀 I’m interested in Programming/Coding
-- 🌱 I’m currently learning HTML and Python
+- 🌱 I’m currently learning HTML/CSS and Python among others
 - 💞️ I’m looking to collaborate on any projects on my free time by either practice or serious business
 - 📫 How to reach me? Email me @ Christianjack42069@gmail.com
 
